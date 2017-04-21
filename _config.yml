@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Joanne's nNew Site"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Joanne Rich"
 description              : "An awesome and amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Information Management Librarian"
+  location         : "UW HSL"
   email            :
   uri              :
   bitbucket        :
